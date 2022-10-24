@@ -13,3 +13,5 @@ Toshi can teleport to the puck.
 Cosmo can wrap around the screen to reach the other side and stop the puck quickly.
 
 Kudo has a slightly faster running speed and can dash for a quick burst of speed. 
+
+![](https://github.com/tymakescoolgames/Hero-Hockey/blob/master/.gif)
