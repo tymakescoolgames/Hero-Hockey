@@ -14,4 +14,4 @@ Cosmo can wrap around the screen to reach the other side and stop the puck quick
 
 Kudo has a slightly faster running speed and can dash for a quick burst of speed. 
 
-![](https://github.com/tymakescoolgames/Hero-Hockey/blob/master/.gif)
+![](https://github.com/tymakescoolgames/Hero-Hockey/blob/master/Hero_Hockey_gif.gif)
